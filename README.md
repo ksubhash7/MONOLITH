@@ -1,2 +1,1 @@
-# Electron
-The Rainmeter alternative which works better than Rainmeter
+MONOLITH - the RAM free alternative to rainmeter
